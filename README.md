@@ -24,7 +24,7 @@ This method works for everyone and does **not** require any special setup.
 1. Open **Terminal / Command Prompt**
 2. Run the command:
    ```bash
-   git clone https://github.com/necromancer-x/web-technology.git
+   git clone https://github.com/necromancer-x/data-analytics.git
    ```
 
 ### 🔹 Method 2: Clone Using SSH (For Advanced Users)
@@ -34,7 +34,7 @@ This method works for everyone and does **not** require any special setup.
 1. Open **Terminal / Command Prompt**
 2. Run the command:
    ```bash
-   git clone git@github.com:necromancer-x/web-technology.git
+   git clone git@github.com:necromancer-x/data-analytics.git
    ```
 
 ### 🔹 Method 3: Clone Using GitHub CLI
@@ -44,7 +44,7 @@ This method works for everyone and does **not** require any special setup.
 1. Open **Terminal / Command Prompt**
 2. Run the command:
    ```bash
-   gh repo clone necromancer-x/web-technology
+   gh repo clone necromancer-x/data-analytics
    ```
 
 ## 🔄 How to Get Latest Updates
